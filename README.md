@@ -1,4 +1,7 @@
-## Hi there 👋
+# ⚡Hi there 👋 I'm Harsh Dahiya. Welcome to my Dashboard! ✨
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
 <!--
 **HarshDahiya29/HarshDahiya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
