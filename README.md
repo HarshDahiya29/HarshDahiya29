@@ -1,6 +1,6 @@
 # ⚡Hi there 👋 I'm Harsh Dahiya. Welcome to my Dashboard! ✨
 <p align="center">
-  <img src="https://github.com" width="100%" />
+  <img src="https://github.com/HarshDahiya29/Personal_details/blob/main/Harsh%20Dahiya.png" width="100%" />
 </p>
 
 <!--
